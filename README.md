@@ -1,4 +1,3 @@
-# Medivise-health-bot
 # TriageWise 🩺
 **AI Patient Intake & Triage Assistant**
 
